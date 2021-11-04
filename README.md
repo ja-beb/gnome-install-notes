@@ -2,9 +2,9 @@
 Fedora 35 &amp; Gnome 41 install notes.
 
 ## Software
-# dconf-editor
-# gnome-tweaks
-# gnome-extensions
+- dconf-editor
+- gnome-tweaks
+- gnome-extensions
 
 ## Extensions
 Installed from https://extensions.gnome.org/

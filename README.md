@@ -5,6 +5,10 @@ Fedora 35 &amp; Gnome 41 install notes.
 - dconf-editor
 - gnome-tweaks
 - gnome-extensions
+- gnome-power-statistics (for headphones, K6 and wireless mouse)
+
+## Themes
+Installed from https://gnome-look.org
 
 ## Extensions
 Installed from https://extensions.gnome.org/
@@ -25,4 +29,11 @@ Installed from https://extensions.gnome.org/
 - Weather In The Clock
 
 ## Configuration
- - kyechron/k6 setup (https://github.com/IulianDita/keychron/blob/master/k6.md)
+- keychron/k6 setup (https://github.com/IulianDita/keychron/blob/master/k6.md)
+
+## Hardware
+- Logitech HD webcam - no config needed
+- Logitech headphones - no config needed.
+- Logitech mouse - no config needed
+- Keychron K6 - followeed notes above. 
+-

@@ -1,4 +1,4 @@
-# gnome-install-notees
+# gnome-install-notes
 Fedora 35 &amp; Gnome 41 install notes.
 
 ## Software

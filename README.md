@@ -35,5 +35,4 @@ Installed from https://extensions.gnome.org/
 - Logitech HD webcam - no config needed
 - Logitech headphones - no config needed.
 - Logitech mouse - no config needed
-- Keychron K6 - followeed notes above. 
--
+- Keychron K6 - followed setup notes at (https://github.com/IulianDita/keychron/blob/master/k6.md). 
